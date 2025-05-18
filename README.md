@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 THIS IS A TEST FOR KAIM WEEK 0
+
